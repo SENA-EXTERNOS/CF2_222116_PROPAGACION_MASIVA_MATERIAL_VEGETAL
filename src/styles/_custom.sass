@@ -1,14 +1,29 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 3.4s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 55%
+    left: 5%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float2 4.2s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 10%
+    right: 35%
+  &-3
+    animation: float1 5.6s ease-in-out infinite alternate
+    position: absolute
+    top: 30%
+    right: 5%
+  &-4
+    animation: float2 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 55%
+    right: 10%
+  &-5
+    animation: float2 4.8s ease-in-out infinite alternate
+    position: absolute
+    bottom: 10%
+    right: 35%
 
 
 @keyframes float1
@@ -17,3 +32,159 @@
 
   100%
     transform: translateY(0px)
+  
+@keyframes float2
+  0%
+    transform: translateX(30px)
+
+  100%
+    transform: translateX(0px)
+  
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: #fff
+
+.cajon-b.color-primario:before
+  background-color:#B0E6D3
+  
+.BGR01
+  background-color: #F2F8E8
+
+.BGR02
+  background-color: #ADDBD5
+
+.BGM03, .BGR03
+  background-color: #F6F6F6
+
+.BGR04
+  background-color: #DCF0ED
+
+.BG05
+  background-color: #FDDCD4
+
+.BG06
+  background-color: #fff
+
+.BG07
+  background-color: #0057FF
+
+.BG08
+  background-color: #FF1439
+  
+.BG09
+  background-color: #FF9900
+  
+.BG10
+  background-color: #00B081
+  
+.BG11
+  background-color: #883BDB
+  
+.BG12
+  background-color: #0099FF
+  
+.BG13
+  background-color: #00C2CB
+  
+.BG14
+  background-color: #4F9E00
+  
+.BG15
+  background-color: #FF3D9B
+
+.BGM16
+  background-color: #E8E8E8
+
+.BGR17
+  background-color: #FFF4DF
+
+.BGR18
+  background-color: #FEF3DE
+
+.tarjeta--gris
+  background-color: #DFEDC7
+
+.BGR01, .BGR02, .BGIMG03, .BGR03, .BGR04, .BGIMG04, .BGR17, .BGR18
+  border-radius: 15px
+
+.BGIMG01
+  background-image: url("../assets/curso/fondos/img01.png")
+
+.BGIMG02
+  background-image: url("../assets/curso/fondos/img02.png")
+
+.BGIMG03
+  background-image: url("../assets/curso/fondos/img03.png")
+
+.BGIMG04
+  background-image: url("../assets/curso/fondos/img04.png")
+
+.BGIMG05
+  background-image: url("../assets/curso/fondos/img05.png")
+
+.BGIMG01, .BGIMG02, .BGIMG03, .BGIMG04, .BGIMG05
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGIMG01, .BGM03, .BGIMG05, .BGM16
+  margin-inline: -3.2rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.4rem !important
+
+.cajon.color-acento-contenido
+  background-color: #169788
+
+.cajon.color-acento-contenido:before
+  background-color: #ADDBD5
+
+.slider01 .slyder-a__btn--sigt, .slider01 .slyder-a__btn--atrs, .slider01 .slyder-a__bullets__item--active
+  background-color: #FDB32B !important
+
+.slider02 .slyder-a__btn--sigt, .slider02 .slyder-a__btn--atrs
+  background-color: #F4F4F5 !important
+
+.slyder-a__bullets__item--active
+  background-color: #1B3F5E !important
+
+.slyder-a__bullets__item
+  background-color: #98B2BB
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  @media (max-width: $bp-max-xs)
+    width: 40px
+    height: 40px
+  
+.slyder-a__bullets__item
+  @media (max-width: $bp-max-xs)
+    margin: 0 7px
+
+.tarjeta-flip.color-primario .tarjeta-flip__img, .tarjeta-flip.color-primario .tarjeta-flip__contenido
+  height: 342px
+  border-radius: 48px
+  @media (max-width: $bp-max-xl)
+    height: 289px
+    border-radius: 38px
+  @media (max-width: $bp-max-lg)
+    height: 240px
+    border-radius: 36px
+  @media (max-width: $bp-max-md)
+    height: 300px
+    border-radius: 36px
+
+.img-infografica__item
+  width: 5%
+
+.bloque-texto-d.color-acento-botones:before
+  background-color: #FFF0D4
+
+.bloque-texto-d.color-primario:before
+  background-color: #CFE8FE
+
+.bloque-texto-d.color-secundario:before
+  background-color: #D0E1CE
+
+.bloque-texto-d
+  border-top: 1px solid #3BC192
+
+.tarjeta.color-acento-botones
+  background-color: #FFECC9
