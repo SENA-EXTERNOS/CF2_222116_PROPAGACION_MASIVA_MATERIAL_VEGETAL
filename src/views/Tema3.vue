@@ -64,7 +64,7 @@
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.2 Determinación de especie madre e importancia de selección de planta madre
 
-    .BGM16.px-md-5.px-4.pt-3.pb-2.mb-4
+    .BGM19.px-md-5.px-4.pt-3.pb-2.mb-4
       p El rol de las Plantas Madre en el desarrollo de la iniciativa reproductiva es determinante; tal como se ha mencionado anteriormente, las características de dichas plantas son las que se reproducirán, por lo tanto, su resistencia a plagas y enfermedades, así como su capacidad productiva; esta situación hace que la determinación del material vegetal sea un punto crucial para el establecimiento del proceso de propagación.
     
       .BGIMG02.p-4.mb-4(data-aos="zoom-in")

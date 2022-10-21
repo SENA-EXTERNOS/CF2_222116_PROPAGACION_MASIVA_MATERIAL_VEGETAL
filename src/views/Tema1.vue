@@ -19,17 +19,18 @@
       h2 1.1 Estructuras radiculares y aéreas de las plantas
     
     .BGR01.p-4.mb-4(data-aos="zoom-in")
-      LineaTiempoC.color-terciario(text-small)
+      LineaTiempoC.color-primario.color-purple(text-small)
         .row.justify-content-center(titulo="Introducción")
           .col-lg-5.order-lg-1.order-2
             .h4 Introducción
             p.mb-0 Las plantas están conformadas por dos sistemas: el sistema caulinar y el sistema radicular, estos pueden diferenciarse como aquello que se encuentra encima de la superficie de suelo y aquello que se encuentra en el suelo u orientado hacia su búsqueda.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img02.svg")
-        .row.justify-content-center(titulo="Introducción")
+        .row.justify-content-center(titulo="Sistema radicular")
           .col-lg-5.order-lg-1.order-2
-            .h4 Introducción
-            p.mb-0 Las 
+            .h4 Sistema radicular
+            p Se encuentra integrado por la raíz y sus respectivas ramificaciones.
+            p.mb-0 Es el órgano vegetativo generalmente subterráneo de las plantas terrestres, que además de servir para el anclaje de las mismas, también posibilita la absorción de aquellos nutrientes requeridos del suelo u otro sustrato por la planta. 
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img03.svg")
         .row.justify-content-center(titulo="Sistema Caulinar")
@@ -107,7 +108,7 @@
       p.mb-0 Dando continuidad al reconocimiento de las partes de las plantas, acabamos de reconocer la raíz y el tallo. Veamos ahora la descripción de la hoja.
 
     .BGIMG03.p-4.mb-4(data-aos="zoom-in")
-      LineaTiempoC.color-terciario(text-small)
+      LineaTiempoC.color-primario.color-purple(text-small)
         .row.justify-content-center(titulo="La hoja")
           .col-lg-6.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img09.jpg")
@@ -166,10 +167,10 @@
     
     AcordionA(tipo="b" clase-tarjeta="BGR03")
       .row.justify-content-center(titulo="Definición")
-        .col-md-11
+        .col
           p.mb-0 El fruto es el ovario desarrollado y en estado de maduración de la planta, que también se conoce con el nombre de pericarpio, que funciona como contenedor de las semillas.
       .row.justify-content-center(titulo="Clasificación de los frutos")
-        .col-md-11
+        .col
           p.mb-0 Los frutos se clasifican en simples (un solo ovario) y compuestos (varios ovarios).
     
     p Para terminar el reconocimiento de las partes de las plantas, se presenta a continuación la semilla.
@@ -289,31 +290,31 @@
     .BGIMG05.p-md-5.p-4.mb-4(data-aos="zoom-in")
       AcordionA(tipo="b" clase-tarjeta="BGR03")
         .row.justify-content-center(titulo="Xilema")
-          .col-md-11
+          .col
             p.mb-0 Tejido complejo, debido a la presencia de células dentro del mismo, algunas incluso con protoplasma vivo; este órgano se encuentra constituido por traqueidas, elementos del vaso, fibras y parénquima. Según el estado de desarrollo de la planta, el xilema puede ser primario o secundario.
         .row.justify-content-center(titulo="Traqueidas")
-          .col-md-11
+          .col
             p.mb-0 Células muertas alargadas, con terminación en punta roma y presencia de poros laterales; sus funciones básicas son el transporte de savia bruta y sostenimiento de la planta.
         .row.justify-content-center(titulo="Elementos del vaso")
-          .col-md-11
+          .col
             p.mb-0 Células alargadas con paredes gruesas que regularmente no contienen protoplasma vivo en su estado de madurez; estos órganos forman filas unidas longitudinalmente conectadas entre sí mediante perforaciones; las funciones de éstos son el transporte de agua y minerales, así como el sostenimiento de la planta.
         .row.justify-content-center(titulo="Fibras")
-          .col-md-11
+          .col
             p.mb-0 Son paredes fuertemente lignificadas, conformando estructuras más largas que las traqueidas, que terminan en puntas agudas; su función es de tipo mecánico en la planta. Estas fibras forman paredes secundarias después de completar su alargamiento.
         .row.justify-content-center(titulo="Parénquima")
-          .col-md-11
+          .col
             p.mb-0 Es similar al parénquima que se encuentra en el resto de la planta; su función es el almacenamiento de sustancias requeridas por la planta.
         .row.justify-content-center(titulo="Floema")
-          .col-md-11
+          .col
             p.mb-0 Es el tejido de mayor relevancia para la conducción de nutrientes a lo largo de la planta, es de naturaleza compleja, conformado por células especializadas en funciones concretas; estas células son: elementos cribosos, células acompañantes, parénquima y fibras.
         .row.justify-content-center(titulo="Elementos cribosos")
-          .col-md-11
+          .col
             p.mb-0 Existen dos tipos, las células cribosas (menos especializadas) y los tubos cribosos (mayormente especializados); son células vivas; los tubos se encuentran dispuestos longitudinalmente; en sus paredes, se forman llamadas áreas cribosas; la función de estas estructuras es el transporte de savia elaborada hasta los sitios de almacenamiento y consumo.
         .row.justify-content-center(titulo="Células acompañantes")
-          .col-md-11
+          .col
             p.mb-0 Células parenquimáticas altamente especializadas que suelen asociarse a los tubos cribosos; guardan una función complementaria con los elementos cribosos.
         .row.justify-content-center(titulo="Células parenquimáticas")
-          .col-md-11
+          .col
             p.mb-0 Células similares a las del xilema; su función es el almacenamiento de sustancias de reserva, como almidón, grasa, taninos, resinas.
 
 </template>

@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Propagación vegetal in-vitro.',
+    componenteFormativo: 'Propagación vegetal <em>in-vitro</em>.',
     descripcionCurso:
-      'El desarrollo de este componente le permitirá acceder a conocimientos importantes en el campo de la biotecnología vegetal y la propagación in-vitro. Entre los temas más destacados por abordar se encuentran la instalación de bancos de plantas madre, selección de medios de laboratorio, preparación de soluciones madre y adopción de protocolos de manejo.',
+      'El desarrollo de este componente le permitirá acceder a conocimientos importantes en el campo de la biotecnología vegetal y la propagación <em>in-vitro</em>. Entre los temas más destacados por abordar se encuentran la instalación de bancos de plantas madre, selección de medios de laboratorio, preparación de soluciones madre y adopción de protocolos de manejo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -130,7 +130,8 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Titulo',
+        titulo:
+          'Selección de explantes para utilización de técnica <em>in-vitro</em>',
         desarrolloContenidos: true,
         subMenu: [
           {

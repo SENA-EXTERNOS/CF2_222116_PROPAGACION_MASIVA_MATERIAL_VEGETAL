@@ -93,7 +93,7 @@
 
     p El desarrollo de un proceso exitoso de micropropagación vegetal, depende en una proporción dominante de la conservación de la asepsia del material vegetal; además de las precauciones a ser llevadas a cabo en la selección y recolección de la muestra biológica, se debe garantizar una desinfección apropiada de los explantes cultivados, de manera que se eliminen las posibilidades de contaminación microbiana y su correspondiente afectación al ensayo. 
 
-    .BGM16.px-md-5.px-4.pt-3.pb-2.mb-4
+    .BGM19.px-md-5.px-4.pt-3.pb-2.mb-4
       p El profundizar en este campo, expone aspectos que en apariencia no ejercerían incidencia sobre las condiciones de sanidad de las plantas; pero que, ciertamente, pueden llegar a afectar gravemente el recurso biológico manipulado; entre estos aspectos se reconoce la arquitectura de los espacios de trabajo, edad y procedencia del material vegetal, condiciones culturales de los operarios traducida en prácticas de higiene y hasta la habilidad o destreza en el ejercicio, pudiendo llegar a generar presuntas afectaciones #[b (Sharry. 2015)].
       
       .BGIMG02.p-4.mb-4(data-aos="zoom-in")
