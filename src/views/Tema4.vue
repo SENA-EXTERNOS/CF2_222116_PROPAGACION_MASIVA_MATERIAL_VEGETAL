@@ -41,15 +41,14 @@
                 .bloque-texto-d__texto.mb-2
                   <i class="fas fa-quote-left" style="color:#169788"></i>
                   h3.text-regular La puesta en marcha del proceso de micropropagación masiva de material vegetal, específicamente inicia con la selección de órganos o pequeñas muestras de tejido (explantes). Los explantes, entendidos como secciones de las plantas madre, proporcionan la información genética que, bajo las condiciones de laboratorio apropiadas, permiten la generación de callos, órganos, embriones somáticos, entre los cuales puede originarse una planta completa.
-                  <i class="fas fa-quote-right" style="color:#169788"></i>
                 .bloque-texto-d__autor 
-                  .h5.mb-0 <span style="color:#169788">(Perea. 2009).</span>
+                  .h5.mb-0 <span style="color:#169788">(Perea. 2009).</span><i class="fas fa-quote-right" style="color:#169788"></i>
           .row(numero="2" titulo="Medio aséptico")
             .col
               p.mb-0 El cultivo de las Plantas Madre en un medio aséptico permite una reducción considerable de las posibilidades de agentes contaminantes, como es el caso de hongos que pueden llegar a encontrar un medio propicio para reproducirse en laboratorio aprovechando condiciones ofrecidas por el medio de cultivo y el microclima generado en el mismo.
           .row(numero="3" titulo="Diagnóstico y tratamiento")
             .col
-              p.mb-0 Gran parte del riesgo de contaminación con potencial de afectación sanitaria al cultivo in vitro proviene de las Plantas Madre, por este motivo, es fundamental lograr un diagnóstico oportuno de la condición de salud de las plantas donantes y, en consecuencia, la realización de un tratamiento acorde con la situación.
+              p.mb-0 Gran parte del riesgo de contaminación con potencial de afectación sanitaria al cultivo #[em in vitro] proviene de las Plantas Madre, por este motivo, es fundamental lograr un diagnóstico oportuno de la condición de salud de las plantas donantes y, en consecuencia, la realización de un tratamiento acorde con la situación.
 
     separador
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -60,14 +59,14 @@
         .bloque-texto-d.color-primario.p-4
           .bloque-texto-d__texto.mb-2
             <i class="fas fa-quote-left" style="color:#169788"></i>
-            h3.text-regular El cultivo in vitro, tal como se ha reseñado con anterioridad, puede emprenderse desde diferentes tejidos y órganos vegetales, resultado determinante aspectos como tamaño, tipo y época de recolección de la muestra, teniendo mayor capacidad de respuesta positiva en términos de desarrollo los explantes tomados de plantas jóvenes y zonas de crecimiento activas de las mismas, esto se debe al grado prematuro de diferenciación celular de sus tejidos; si bien también es posible generar el cultivo desde plantas adultas y yemas en reposo, el potencial de respuesta positiva es comparativamente menor que en las fuentes donantes referenciadas en primera instancia.
+            h3.text-regular El cultivo #[em in vitro], tal como se ha reseñado con anterioridad, puede emprenderse desde diferentes tejidos y órganos vegetales, resultado determinante aspectos como tamaño, tipo y época de recolección de la muestra, teniendo mayor capacidad de respuesta positiva en términos de desarrollo los explantes tomados de plantas jóvenes y zonas de crecimiento activas de las mismas, esto se debe al grado prematuro de diferenciación celular de sus tejidos; si bien también es posible generar el cultivo desde plantas adultas y yemas en reposo, el potencial de respuesta positiva es comparativamente menor que en las fuentes donantes referenciadas en primera instancia.
             <i class="fas fa-quote-right" style="color:#169788"></i>
           .bloque-texto-d__autor 
             .h5.mb-0 (Sharry. et al. 2015)
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema4/img05.png')
 
-    p El tamaño del explante, es una condición que también presenta relevancia dentro del proceso de establecimiento del cultivo in vitro
+    p El tamaño del explante, es una condición que también presenta relevancia dentro del proceso de establecimiento del cultivo #[em in vitro]
 
     .BGR18.p-4.mb-4(data-aos="zoom-in")
       SlyderA.slider02(tipo="b")
@@ -78,7 +77,7 @@
             img(src="@/assets/curso/tema4/img06.svg")
         .row.justify-content-center.align-items-center
           .col-lg-5.order-lg-1.order-2
-            p.mb-0 En este escenario, los meristemos representan un papel importante dentro del proceso de reproducción in vitro; estos son grupos de células en estado juvenil que cuentan con una capacidad notable de división constante, siendo su principal funcionalidad, la reproducción de plantas libres de agentes patógenos; dicha funcionalidad sucede a causa de la ausencia de canales conductores de organismos como virus, por ejemplo, permitiendo una disminución del riesgo a contaminación del material vegetal resultante. 
+            p.mb-0 En este escenario, los meristemos representan un papel importante dentro del proceso de reproducción #[em in vitro]; estos son grupos de células en estado juvenil que cuentan con una capacidad notable de división constante, siendo su principal funcionalidad, la reproducción de plantas libres de agentes patógenos; dicha funcionalidad sucede a causa de la ausencia de canales conductores de organismos como virus, por ejemplo, permitiendo una disminución del riesgo a contaminación del material vegetal resultante. 
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema4/img07.png")
         .row.justify-content-center.align-items-center
@@ -101,7 +100,7 @@
           .row.justify-content-center.align-items-center(titulo="Paso 1")
             .col-lg-6.order-lg-1.order-2
               .h4 Riesgo de contaminación al material vegetal
-              p.mb-0 Entre los organismos que pueden representar riesgo de contaminación al material vegetal, se encuentran hongos, bacterias y levaduras, muchos de los cuales, en espacios de producción (cultivo en campo), no representan una amenaza manifiesta a las plantas consolidadas; sin embargo, en el cultivo in vitro, si ocasionan afectaciones directas y/o indirectas sobre el desarrollo de los tejidos propagados, en la búsqueda de diferenciación celular y generación de órganos especializados.
+              p.mb-0 Entre los organismos que pueden representar riesgo de contaminación al material vegetal, se encuentran hongos, bacterias y levaduras, muchos de los cuales, en espacios de producción (cultivo en campo), no representan una amenaza manifiesta a las plantas consolidadas; sin embargo, en el cultivo #[em in vitro], si ocasionan afectaciones directas y/o indirectas sobre el desarrollo de los tejidos propagados, en la búsqueda de diferenciación celular y generación de órganos especializados.
             .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema4/img09.png")
           .row.justify-content-center.align-items-center(titulo="Paso 2")
@@ -133,7 +132,7 @@ export default {
       },
       {
         texto:
-          'La determinación de las condiciones observables se establece como un punto de partida referente, tanto para la toma de decisiones de selección del material vegetal a utilizar en la micropropagación in vitro, como para establecer procesos comparativos de contrates de los nuevos ejemplares obtenidos, facilitando el control de crecimiento y desarrollo.',
+          'La determinación de las condiciones observables se establece como un punto de partida referente, tanto para la toma de decisiones de selección del material vegetal a utilizar en la micropropagación <em>in vitro</em>, como para establecer procesos comparativos de contrates de los nuevos ejemplares obtenidos, facilitando el control de crecimiento y desarrollo.',
         imagen: require('@/assets/curso/tema4/img03.png'),
       },
     ],

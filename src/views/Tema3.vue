@@ -10,7 +10,7 @@
     .row.justify-content-center.mb-4
       .col-lg-4.order-lg-1.order-2(data-aos="fade-right")
         .cajon-b.color-primario.p-3
-          p.mb-0 Uno de los elementos centrales en el logro de rendimientos en la producción agrícola, es la utilización de semillas de calidad.  De este modo pueden establecerse estrategias de propagación in vitro del material vegetal, las cuales se asocian con la necesidad de contar con un reservorio genético apropiado para la multiplicación de ejemplares, cuyo uso o intencionalidad final será la productividad que pueda generar implícitamente.
+          p.mb-0 Uno de los elementos centrales en el logro de rendimientos en la producción agrícola, es la utilización de semillas de calidad.  De este modo pueden establecerse estrategias de propagación #[em in vitro] del material vegetal, las cuales se asocian con la necesidad de contar con un reservorio genético apropiado para la multiplicación de ejemplares, cuyo uso o intencionalidad final será la productividad que pueda generar implícitamente.
       .col-lg-8.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema3/img01.png')
     
@@ -98,7 +98,7 @@
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.3 Descripción del estado sanitario y nutricional de la especie o planta madre 
     
-    p La micropropagación permite perpetuar un tipo de genética específica, mediante la clonación de Plantas Madre, seleccionadas para tal fin, debido a las condiciones diferenciales que muestran; el mantenimiento del buen estado sanitario y nutricional de las mismas permite obtener ejemplares de las mismas durante importantes periodos de tiempo que pueden llegar a ser años, de forma constante.
+    p La micropropagación permite perpetuar un tipo de genética específica, mediante la clonación de Plantas Madre, para obtener ejemplares de las mismas características durante importantes periodos de tiempo que pueden llegar a ser años, dadas  las condiciones diferenciales que muestran así como el mantenimiento del buen estado sanitario y nutricional de las mismas.
 
     .BGR17.p-4.mb-4(data-aos="zoom-in")
       SlyderA.slider02(tipo="b")
@@ -108,9 +108,8 @@
               .bloque-texto-d__texto.mb-2
                 <i class="fas fa-quote-left" style="color:#169788"></i>
                 h3.text-regular Al seleccionar las Plantas Madre desde clones, debe realizar la alimentación solamente con agua hasta que se observen nuevos brotes, evitando posibles estados de estrés mientras se establece cada ejemplar. En la medida que, se logra el establecimiento, se inicia la adición de nutrientes requeridos, en un proceso de adaptación que empieza con proporciones parciales del total demandado (entre 1/4 y 1/2) durante las primeras semanas.
-                <i class="fas fa-quote-right" style="color:#169788"></i>
               .bloque-texto-d__autor 
-                .h5.mb-0  (Sharry. et al. 2015).
+                .h5.mb-0  (Sharry. et al. 2015). <i class="fas fa-quote-right" style="color:#169788"></i>
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema3/img11.png")
         .row.justify-content-center.align-items-center

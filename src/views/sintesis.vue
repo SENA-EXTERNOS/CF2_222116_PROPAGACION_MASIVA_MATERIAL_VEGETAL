@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p El proceso de propagación in vitro de material vegetal, si bien reviste complejidad, la comprensión de sus elementos fundamentales permite adquirir las herramientas básicas para desarrollar el proceso; el siguiente esquema, ilustra algunos de los aspectos centrales que permiten acceder a dicha comprensión desde un abordaje técnico.
+    p El proceso de propagación #[em in vitro] de material vegetal, si bien reviste complejidad, la comprensión de sus elementos fundamentales permite adquirir las herramientas básicas para desarrollar el proceso; el siguiente esquema, ilustra algunos de los aspectos centrales que permiten acceder a dicha comprensión desde un abordaje técnico.
     p.mb-5 #[b Nota]: para ampliar la información del presente documento, remitir a documento anexo.
 
     .row.justify-content-center

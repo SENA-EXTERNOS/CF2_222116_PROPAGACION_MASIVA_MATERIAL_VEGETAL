@@ -11,7 +11,7 @@
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src="@/assets/curso/tema2/img01.png")
       .col-lg-6
-        p Para la comprensión de la técnica de propagación in vitro de las plantas, además de reconocer la morfología vegetal se hace necesario identificar la reproducción vegetativa o asexual de las plantas; para esto, se recurre a la identificación de las estructuras reproductivas vegetativas, es decir, aquellas estructuras vegetales susceptibles de servir como material biológico para la propagación. Seguidamente, se realizará un breve recorrido por las ventajas en el uso de la técnica, así como algunos de los elementos a tener en consideración para evitar posibles riesgos o afectaciones a la biodiversidad.
+        p Para la comprensión de la técnica de propagación #[em in vitro] de las plantas, además de reconocer la morfología vegetal se hace necesario identificar la reproducción vegetativa o asexual de las plantas; para esto, se recurre a la identificación de las estructuras reproductivas vegetativas, es decir, aquellas estructuras vegetales susceptibles de servir como material biológico para la propagación. Seguidamente, se realizará un breve recorrido por las ventajas en el uso de la técnica, así como algunos de los elementos a tener en consideración para evitar posibles riesgos o afectaciones a la biodiversidad.
         p.mb-0 Para iniciar se invita a ver un video síntesis de lo que encontrará en este apartado.
 
     figure(data-aos="zoom-in")
@@ -30,9 +30,8 @@
           .bloque-texto-d__texto.mb-2
             <i class="fas fa-quote-left" style="color:#169788"></i>
             h3.text-regular Algunas especies presentan mayor facilidad en términos de tiempo e inversión al ser reproducidas por medios vegetativos que por semilla; otro elemento a considerar es la necesidad de mantener "indefinidamente" un estado juvenil en los ejemplares vegetales como condición que facilita el enraizamiento de estacas por propagación, tal es el caso de los tubérculos que regularmente hacen parte de la dieta humana (Chuncho et al 2019).
-            <i class="fas fa-quote-right" style="color:#169788"></i>
           .bloque-texto-d__autor 
-            .h5.mb-0 Chuncho et al 2019
+            .h5.mb-0 Chuncho et al 2019 <i class="fas fa-quote-right" style="color:#169788"></i>
     
     .row.justify-content-center.mb-5
       .col-lg-4.col-md-8(data-aos="zoom-in")
@@ -83,7 +82,7 @@ export default {
       {
         titulo: '',
         texto:
-          'Es importante reseñar que, siendo el resultado del proceso de clonación un individuo que no presenta variabilidad genética y al compartir todos los ejemplares resultantes esta misma condición, un riesgo en términos de biodiversidad que puede presentarse en la dependencia exclusiva del proceso de propagación vegetativa, radica en la incapacidad de adaptación a condiciones cambiantes, por parte de los nuevos ejemplares; por tal razón, es necesario conservar bancos de plantas madre robustos que garanticen la diversidad genética como estrategia de respaldo.',
+          'Es importante reseñar que, siendo el resultado del proceso de clonación un individuo que no presenta variabilidad genética y al compartir todos los ejemplares resultantes esta misma condición, <b>un riesgo en términos de biodiversidad que puede presentarse en la dependencia exclusiva del proceso de propagación vegetativa, radica en la incapacidad de adaptación a condiciones cambiantes, por parte de los nuevos ejemplares</b>; por tal razón, es necesario conservar bancos de plantas madre robustos que garanticen la diversidad genética como estrategia de respaldo.',
         imagen: require('@/assets/curso/tema2/img04.jpg'),
       },
     ],

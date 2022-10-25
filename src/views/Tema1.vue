@@ -10,7 +10,7 @@
     .row.justify-content-center.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
         .cajon.color-primario.p-4
-          p.mb-0 La morfología vegetal es el campo básico desde donde se puede comprender múltiples aspectos asociados a la funcionalidad de los organismos vegetales, así como los elementos biológicos que los posibilitan; por tal motivo, se genera una ruta que inicia por la  identificación de las estructuras radiculares y aéreas de las plantas, la fotosíntesis y los órganos que la desarrollan, así como sus diferentes fases, concluyendo en un recorrido por el sistema vascular que proporciona a las plantas la posibilidad de circulación del agua y los nutrientes que requiere para vivir.
+          p.mb-0 La morfología vegetal es el campo básico desde donde se puede comprender múltiples aspectos asociados a la funcionalidad de los organismos vegetales, así como los elementos biológicos que los posibilitan; por tal motivo, se genera una ruta que inicia por la identificación de las estructuras radiculares y aéreas de las plantas, la fotosíntesis y los órganos que la desarrollan, así como sus diferentes fases, concluyendo en un recorrido por el sistema vascular que proporciona a las plantas la posibilidad de circulación del agua y los nutrientes que requiere para vivir. Para iniciar se van a reconocer las estructuras radiculares y aéreas de las plantas.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img01.svg")
     
@@ -70,7 +70,7 @@
 
     .BGIMG01.p-md-5.p-4.mb-4
       .cajon.color-acento-contenido.p-4.mb-4(data-aos="fade-right")
-        p.text-white.mb-0 Dentro de las partes mencionadas de las plantas, se explicaran a continuación los elementos constitutivos de la raíz, en la cual se puede identificar que la estructura interna cuenta con particularidades específicas, en concordancia con el estado de desarrollo y clase de planta.
+        p.text-white.mb-0 Dentro de las partes mencionadas de las plantas, se explicarán a continuación los elementos constitutivos de la raíz, en la cual se puede identificar que la estructura interna cuenta con particularidades específicas, en concordancia con el estado de desarrollo y clase de planta.
     
       .BGIMG02.p-4(data-aos="zoom-in")
         SlyderA.slider01(tipo="b")
@@ -87,7 +87,7 @@
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema1/img07.png")
 
-    p Siguiendo con el tallo es el órgano vegetativo con geotropismo negativo y fototropismo positivo que sirve para sostener las ramas, hojas, flores y frutos, con tamaños, formas y consistencias relativas al tipo de planta a la cual pertenece. Esta formación, cuenta con una estructura interna y una externa.
+    p Siguiendo con el reconocimiento de la planta se puede indicar que el tallo es el órgano vegetativo con geotropismo negativo y fototropismo positivo que sirve para sostener las ramas, hojas, flores y frutos, con tamaños, formas y consistencias relativas al tipo de planta a la cual pertenece. Esta formación, cuenta con una estructura interna y una externa.
 
     .row.justify-content-center.mb-5
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
