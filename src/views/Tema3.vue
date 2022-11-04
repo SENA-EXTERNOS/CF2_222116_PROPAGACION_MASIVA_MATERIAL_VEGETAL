@@ -57,7 +57,7 @@
           img(src='@/assets/curso/tema3/img06.png' alt='AvatarTop')
           .tarjeta.color-acento-botones
             .p-4
-              h4.text-center Características generales del banco de plantas madre
+              h4.text-center Características específicas del Banco de Plantas Madre
               p Estarán determinadas por las exigencias particulares de las especies con las que se trabajará y con la reglamentación colombiana vigente para su propagación.
 
     separador
