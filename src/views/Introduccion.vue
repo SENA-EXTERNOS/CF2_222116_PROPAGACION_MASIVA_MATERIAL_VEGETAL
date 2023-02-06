@@ -12,7 +12,9 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.order-lg-1.order-2(data-aos="fade-right")
         .cajon-b.color-primario.p-3
-          p.mb-0 Bienvenidos al componente formativo, denominado Propagación Vegetal #[i In-Vitro], donde se abordará el proceso biotecnológico de la reproducción vegetal. Inicialmente se desarrolla el tema de morfología vegetal, luego se presenta la reproducción vegetativa de las plantas. En un tercer momento se explica la clasificación de material vegetal y se finaliza con la selección de explantes para utilización de técnica #[i in-vitro]. Lo invitamos a iniciar este recorrido observando el video de introducción del componente formativo.
+          p.mb-0 Bienvenido al componente formativo, donde se abordará el proceso biotecnológico de la reproducción vegetal. Inicialmente, se desarrolla el tema de morfología vegetal, y luego se presenta la reproducción vegetativa de las plantas. Por otra parte, se explica la clasificación de material vegetal y se finaliza con la selección de explantes, para utilización de técnica #[i in vitro]. 
+          br
+          p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
       .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/intro/img01.png")
     

@@ -10,13 +10,17 @@
     .row.justify-content-center.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
         .cajon.color-primario.p-4
-          p.mb-0 La morfología vegetal es el campo básico desde donde se puede comprender múltiples aspectos asociados a la funcionalidad de los organismos vegetales, así como los elementos biológicos que los posibilitan; por tal motivo, se genera una ruta que inicia por la identificación de las estructuras radiculares y aéreas de las plantas, la fotosíntesis y los órganos que la desarrollan, así como sus diferentes fases, concluyendo en un recorrido por el sistema vascular que proporciona a las plantas la posibilidad de circulación del agua y los nutrientes que requiere para vivir. Para iniciar se van a reconocer las estructuras radiculares y aéreas de las plantas.
+          p.mb-0 La morfología vegetal es el campo básico desde donde se pueden comprender múltiples aspectos asociados a la funcionalidad de los organismos vegetales, así como los elementos biológicos que los posibilitan; por tal motivo, se genera una ruta que inicia por la identificación de las estructuras radiculares y aéreas de las plantas, la fotosíntesis y los órganos que la desarrollan, así como sus diferentes fases, concluyendo en un recorrido por el sistema vascular, que proporciona a las plantas la posibilidad de circulación del agua y los nutrientes que requiere para vivir. Para iniciar, se van a reconocer las estructuras radiculares y aéreas de las plantas.
+
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src="@/assets/curso/tema1/img01.svg")
+        img(src="@/assets/curso/tema1/img1.svg")
     
     separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Estructuras radiculares y aéreas de las plantas
+
+    .row
+      p Las plantas están conformadas por dos sistemas: el sistema caulinar y el sistema radicular; su diferencia radica en que el caulinar crece por encima de la superficie del suelo compuesto por rizomas y tallos, o sea que es aéreo, y el radicular crece en dirección inversa a la del tallo, introducido en el suelo, es subterráneo, compuesto por el conjunto de raíces de la planta.
     
     .BGR01.p-4.mb-4(data-aos="zoom-in")
       LineaTiempoC.color-primario.color-purple(text-small)
@@ -30,7 +34,8 @@
           .col-lg-5.order-lg-1.order-2
             .h4 Sistema radicular
             p Se encuentra integrado por la raíz y sus respectivas ramificaciones.
-            p.mb-0 Es el órgano vegetativo generalmente subterráneo de las plantas terrestres, que además de servir para el anclaje de las mismas, también posibilita la absorción de aquellos nutrientes requeridos del suelo u otro sustrato por la planta. 
+            p Es el órgano vegetativo, generalmente subterráneo de las plantas terrestres, que además de servir para el anclaje de las mismas, también posibilita la absorción de aquellos nutrientes requeridos por la planta, sea del suelo o de otro sustrato.
+
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img03.svg")
         .row.justify-content-center(titulo="Sistema Caulinar")
@@ -40,8 +45,10 @@
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img04.svg")
     
-    p Una vez reconocidos los sistemas de las plantas exploremos una de sus partes. La raíz cuenta con una estructura interna y una estructura externa, diferenciadas en sus características, de acuerdo con el tipo de planta a las que corresponda (monocotiledóneas o dicotiledóneas).
-    p La estructura externa cuenta con una distribución zonal que presenta las secciones de cuello, ramificación, diferenciación, pelos absorbentes, alargamiento, meristema apical y cofia.
+    .cajon.color-acento-contenido.p-4.mb-4(data-aos="fade-right")    
+        p Una vez reconocidos los sistemas de las plantas, exploremos el sistema radicular. La raíz cuenta con una estructura interna y una estructura externa, diferenciadas en sus características, de acuerdo con el tipo de planta a la que corresponda (monocotiledónea o dicotiledónea).
+
+        p La estructura externa cuenta con una distribución zonal que presenta las secciones de cuello, ramificación, diferenciación, pelos absorbentes, alargamiento, meristema apical y cofia.
 
     .row.justify-content-center.mb-5
       .col-lg-5.order-lg-1.order-2(data-aos="fade-right")
@@ -57,7 +64,7 @@
             p.text-white Los pelos absorbentes son células epidérmicas alargadas, están encargados de la absorción de agua y nutrientes necesarios para el crecimiento y desarrollo de la planta.
           .tarjeta.color-acento-contenido.p-3(x="50.5%" y="3%" numero="+")
             .h5.mb-2.text-center <span style="background-color:#FDB32B; padding: 5px">Cuello</span>
-            p.text-white El cuello es la parte donde se une raíz y tallo de la planta.
+            p.text-white El cuello es la parte donde se unen la raíz y el tallo de la planta.
           .tarjeta.color-acento-contenido.p-3(x="54%" y="83%" numero="+")
             .h5.mb-2.text-center <span style="background-color:#FDB32B; padding: 5px">Zona pilífera</span>
             p.text-white La zona de diferenciación o pilífera es la región donde los tejidos meristemáticos se diferencian como tejidos radiculares definitivos.
@@ -87,7 +94,7 @@
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema1/img07.png")
 
-    p Siguiendo con el reconocimiento de la planta se puede indicar que el tallo es el órgano vegetativo con geotropismo negativo y fototropismo positivo que sirve para sostener las ramas, hojas, flores y frutos, con tamaños, formas y consistencias relativas al tipo de planta a la cual pertenece. Esta formación, cuenta con una estructura interna y una externa.
+    p Siguiendo con el conocimiento de la planta, se puede decir que el tallo es el órgano vegetativo con geotropismo negativo y fototropismo positivo, los cuáles sirven para sostener las ramas, hojas, flores y frutos, con tamaños, formas y consistencias relativas al tipo de planta, a la cual pertenece. El tallo cuenta con una estructura interna y una externa.
 
     .row.justify-content-center.mb-5
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
@@ -104,8 +111,8 @@
             .col-lg-10
               p.mb-0 Estructura posible en plantas dicotiledóneas leñosas; en estas plantas, en ciertas etapas de desarrollo, aumentan en grosor, a causa del papel ejercido por dos tipos de tejido: el cambium vascular y el cambium del corcho, los cuales son conocidos como tejidos meristemáticos secundarios.
 
-    .cajon.color-secundario.p-4.mb-4(data-aos="flip-up")
-      p.mb-0 Dando continuidad al reconocimiento de las partes de las plantas, acabamos de reconocer la raíz y el tallo. Veamos ahora la descripción de la hoja.
+    .row.mt-5
+      p En este recorrido por la planta, se puede decir que la hoja es un órgano que presenta estructura interna y externa; lo invitamos a conocer su estructura:
 
     .BGIMG03.p-4.mb-4(data-aos="zoom-in")
       LineaTiempoC.color-primario.color-purple(text-small)
@@ -120,7 +127,8 @@
             img(src="@/assets/curso/tema1/img10.svg")
           .col-lg-5
             .h4 Estructura externa de la hoja
-            p Constituida por peciolo (estructura que une la hoja con el tallo) y lámina foliar (cara superior conocida como el haz y la inferior como el envés; a través de esta lámina, se distribuyen las nervaduras ramificadas para el caso de las plantas dicotiledóneas o paralelas en el caso de las monocotiledóneas) entre otros elementos.
+            p Constituida por peciolo (estructura que une la hoja con el tallo) y lámina foliar (cara superior conocida como el haz y la inferior como el envés); a través de esta lámina, se distribuyen las nervaduras ramificadas, para el caso de las plantas dicotiledóneas o, paralelas, en el caso de las monocotiledóneas, entre otros elementos.
+
         .row.justify-content-center(titulo="Estructura interna de la hoja")
           .col-lg-6.mb-lg-0.mb-4
             img.w-75(src="@/assets/curso/tema1/img11.png")
@@ -128,7 +136,7 @@
             .h4 Estructura interna de la hoja
             p Constituida por cutícula, epidermis superior, mesófilo (tejido más abundante de la hoja formado por parénquima en empalizada y parénquima esponjoso, y el elemento más importante en la fotosíntesis), epidermis inferior, estomas y nervaduras (extensión del sistema vascular del tallo).
 
-    .h5.mb-5 Otro elemento que forma parte de la planta es la flor. 
+    p.mb-3 Otro elemento que forma parte de la planta, es la flor. A continuación, conoceremos cada una de sus partes y algunos datos importantes sobre ella.
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-10
@@ -142,7 +150,8 @@
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/img13.png')})`}")
               .tarjeta-flip__contenido.p-5
-                p.text-white.my-5 Esta se considera como un eje del sistema caulinar que se desarrolla de una yema axilar floral; se encuentra compuesta por pedúnculo, cáliz, corola, androceo (estambres) y pistilo.
+                p.text-white.my-5 La flor se considera como un eje del sistema caulinar que se desarrolla de una yema axilar floral; se encuentra compuesta por: pedúnculo, cáliz, corola, androceo (estambres) y pistilo. 
+
         .col-lg-4.col-md-8.col-10.mb-lg-0.mb-5(data-aos="zoom-in")
           .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
             .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -156,10 +165,10 @@
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/img15.png')})`}")
               .tarjeta-flip__contenido.p-5
-                p.text-white.my-5 Las flores se agrupan en estructuras denominadas inflorescencias de tipo simple (una flor) o compuestas (dos o más flores).
+                p.text-white.my-5 Las flores se agrupan en estructuras denominadas inflorescencias de tipo simple (una flor), o compuestas (dos o más flores).
 
-    .cajon.color-secundario.p-4.mb-5(data-aos="flip-up")
-      p.mb-0 Dando continuidad al reconocimiento de la planta se tiene el fruto
+    .row.mt-5
+      p Otra parte fundamental de la planta es el fruto, conozcamos cuáles son sus partes, definición y clasificación.
 
     .row.justify-content-center.mb-4(data-aos="zoom-in")
       .col-lg-8
@@ -184,25 +193,27 @@
             img(src="@/assets/curso/tema1/img17.svg")
         .row.justify-content-center.align-items-center
           .col-lg-4.order-lg-1.order-2
-            p.mb-0 Los factores externos para la germinación de la semilla son, el agua, oxígeno y temperatura en rangos acordes con las necesidades de la planta.
+            p.mb-0 Los factores externos para la germinación de la semilla son: el agua, el oxígeno y la temperatura, en rangos acordes con las necesidades de la planta.
+
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img18.png")
         .row.justify-content-center.align-items-center
           .col-lg-4.order-lg-1.order-2
-            p.mb-0 Los factores internos para la germinación de la semilla consisten en el estado de madurez de la semilla y salud del embrión.
+            p.mb-0 Los factores internos para la germinación de la semilla, consisten en el estado de madurez de la semilla y la salud del embrión.
+
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img19.png")
     
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.2 Órganos Fotosintéticos
+      h2 1.2 Órganos fotosintéticos
 
-    p Una vez reconocidas las partes de las plantas se puede identificar un proceso clave en su crecimiento, La fotosíntesis, el cual se presenta a continuación.
+    p Habiendo aprendido sobre las partes de las plantas, vamos a conocer ahora un proceso clave en su crecimiento, la fotosíntesis, la cual estudiaremos a continuación.
 
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.cajon.color-primario.p-4
-        p.mb-0 La fotosíntesis es un proceso fisicoquímico a través del cual las plantas, algas y algunas bacterias utilizan energía solar para sintetizar los compuestos orgánicos necesarios para su supervivencia. 
-    
+        p.mb-0 La fotosíntesis es un proceso fisicoquímico, a través del cual las plantas, algas y algunas bacterias, utilizan energía solar para sintetizar los compuestos orgánicos necesarios para su supervivencia. 
+
     .BGIMG02.p-4.mb-4(data-aos="zoom-in")
       SlyderA.slider01(tipo="b")
         .row.justify-content-center.align-items-center
@@ -212,35 +223,42 @@
             img(src="@/assets/curso/tema1/img20.png")
         .row.justify-content-center.align-items-center
           .col-lg-5.order-lg-1.order-2
-            p.mb-0 La fotosíntesis oxigénica en las plantas, ocurre en los cloroplastos ubicados en las células del parénquima clorofiniano de las hojas y tallos verdes; esto sucede en el microambiente de esas estructuras celulares, a partir del dióxido de carbono y la energía de los electrones de agua excitados por los fotones de luz.
+            p.mb-0 La fotosíntesis oxigénica en las plantas, ocurre en los cloroplastos, ubicados en las células del parénquima clorofiniano de las hojas y tallos verdes; esto sucede en el microambiente de esas estructuras celulares, a partir del dióxido de carbono y la energía de los electrones de agua, excitados por los fotones de luz.
+
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src="@/assets/curso/tema1/img21.png")
+            img(src="@/assets/curso/tema1/img21_a.svg")
         .row.justify-content-center.align-items-center
           .col-lg-5.order-lg-1.order-2
-            p.mb-0 Para que se de la fotosíntesis es importante reconocer los cloroplastos. Estos cloroplastos hacen parte de un grupo de organelos celulares denominados Plastidios. Este tipo de plastidio es variable en forma, tamaño y cantidad, depende del tipo de estructura celular o especie. Se encuentran constituidos por tres membranas, una externa y dos internas que definen igual número de compartimentos, los cuales son el espacio intermembrana, estroma y espacio tilacoidal.
+            p.mb-0 Para que se dé la fotosíntesis, es importante reconocer los cloroplastos. Estos cloroplastos hacen parte de un grupo de organelos celulares denominados plastidios. Este tipo de plastidio es variable en forma, tamaño y cantidad, y depende del tipo de estructura celular o especie. Se encuentran constituidos por tres membranas, una externa y dos internas, que definen igual cantidad de compartimentos, los cuales son el espacio intermembrana, estroma y espacio tilacoidal.
+
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img22.svg")
         .row.justify-content-center.align-items-center
           .col-lg-5.order-lg-1.order-2
-            p.mb-0 Uno de los espacios clave para el proceso de síntesis, es la membrana tilacoidal, esta membrana presenta algunos componentes esenciales y específicos, como lo son fosfolípidos y proteínas estructurales, complejos proteicos (transporte de electrones), fotosistemas y ATP sintasa.
+            p.mb-0 Uno de los espacios clave para el proceso de síntesis, es la membrana tilacoidal; esta membrana presenta algunos componentes esenciales y específicos, como son los fosfolípidos y proteínas estructurales, complejos proteicos (transporte de electrones), fotosistemas y ATP sintasa.
+          
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img23.png")
         .row.justify-content-center.align-items-center
           .col-lg-5.order-lg-1.order-2
-            p.mb-0 Las plantas presentan pigmentos fotosintéticos, organizados en estructuras denominadas fotosistemas; el complejo molecular de pigmentos fotosintéticos y proteínas se une a la membrana tilacoidal; en este sitio también se encuentra un centro de reacción fotoquímica constituido por un complejo molecular de clorofila y proteínas.
+            p.mb-0 Las plantas presentan pigmentos fotosintéticos, organizados en estructuras denominadas fotosistemas; el complejo molecular de pigmentos fotosintéticos y proteínas se une a la membrana tilacoidal; en este sitio, también se encuentra un centro de reacción fotoquímica constituido por un complejo molecular de clorofila y proteínas.
+
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img24.png")
         .row.justify-content-center.align-items-center
           .col-lg-5.order-lg-1.order-2
-            p.mb-0 Las membranas tilacoidales presentan dos tipos de fotosistemas; estos complejos fotoquímicos son conocidos como fotosistema I (PSI) y fotosistema II (PSII), cada uno contiene un centro de reacción fotoquímico, identificados como P700 y P680, respectivamente.
+            p.mb-0 Las membranas tilacoidales presentan dos tipos de fotosistemas; estos complejos fotoquímicos son conocidos como fotosistema I (PSI) y fotosistema II (PSII); cada uno de ellos está compuesto por un centro de reacción fotoquímico, identificados como P700 y P680, respectivamente.
+            
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img25.png")
 
-    separador
-    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.3 Fase luminosa y oscura de la fotosíntesis
+    .row.mt-5
+      h3 Fase luminosa y fase oscura de la fotosíntesis
 
-    p Ya conocemos en qué consiste la fotosíntesis, conozcamos ahora las fases luminosa y oscura.
+      p Ya aprendimos en qué consiste la fotosíntesis, ahora vamos a conocer sobre las fases luminosas y oscuras de ella.
+
+      La fotosíntesis implica la transformación de energía lumínica en energía química.
+
 
     .BGIMG01.p-md-5.p-4.mb-4
       .cajon.color-secundario.p-4(data-aos="flip-up")
@@ -249,43 +267,49 @@
         .BG06.py-3.py-md-4(titulo="Transformación de energía lumínica en energía química")
           .row.justify-content-center.align-items-center
             .col-lg-5.mb-lg-0.mb-4
-              img(src="@/assets/curso/tema1/img26.svg")
+              img(src="@/assets/curso/tema1/img26_a.svg")
             .col-lg-5
               .h4 Transformación de energía lumínica en energía química
-              p.mb-0 Para que suceda la transformación de energía lumínica en energía química, los organismos deben captar la luz y luego los pigmentos fotosintéticos deben disponerse en la membrana tilacoidal para desarrollar el proceso de síntesis. Este proceso contempla dos fases: la fase fotoquímica (fase luminosa) y la fase de fijación de carbono (fase oscura).
+              p.mb-0 Para que este proceso de lleve a cabo, los organismos deben captar la luz y luego los pigmentos fotosintéticos, deben disponerse en la membrana tilacoidal para desarrollar el proceso de síntesis. Este proceso contempla dos fases: la fase fotoquímica (fase luminosa) y la fase de fijación de carbono (fase oscura). 
+
         .BG06.py-3.py-md-4(titulo="Fase fotoquímica")
           .row.justify-content-center.align-items-center
             .col-lg-5.mb-lg-0.mb-4
-              img(src="@/assets/curso/tema1/img27.svg")
+              img(src="@/assets/curso/tema1/img27_a.svg")
             .col-lg-7
-              p.mb-2 La energía lumínica activa electrones de la clorofila, generando un desplazamiento de los mismos por una cadena en la membrana tilacoidal, mientras la clorofila recupera en el agua los electrones cedidos, liberando oxígeno. La cesión de los electrones sucede en la oxidación de la coenzima NADP+ que, al integrarse con el H+, se transforma en NADPH; durante este transporte de electrones, se inyectan protones mediante la membrana tilacoidal, haciendo que, mediante este gradiente energético, se impulse la síntesis de ATP en el estroma.
+              p.mb-2 La energía lumínica activa electrones de la clorofila, generando un desplazamiento por una cadena en la membrana tilacoidal, mientras la clorofila recupera, en el agua, los electrones cedidos, liberando oxígeno. La cesión de los electrones sucede en la oxidación de la coenzima NADP+ que, al integrarse con el H+, se transforma en NADPH; durante este transporte de electrones, se inyectan protones mediante la membrana tilacoidal, haciendo que, mediante este gradiente energético, se impulse la síntesis de ATP en el estroma.
+
               .bloque-texto-b.p-4.mb-4
                 .bloque-texto-b__texto
                   i.fas.fa-quote-left
-                  p.mb-2 La corriente de electrones comienza en el fotosistema II contenedor del centro de reacción fotoquímico P680, donde el agua es hidrolizada y es allí donde quedan disponibles electrones, protones y oxígeno molecular, posteriormente liberado a la atmósfera como producto residual de la reacción.
+                  p.mb-2 La corriente de electrones comienza en el fotosistema II, contenedor del centro de reacción fotoquímico P680, donde el agua es hidrolizada y es allí donde quedan disponibles electrones, protones y oxígeno molecular, posteriormente liberado a la atmósfera como producto residual de la reacción.  
                   .h5.text-end (Pérez- Urria, 2009).
                   i.fas.fa-quote-right
               .BG05.p-4
                 p.mb-0 #[b Nota]: tanto la transducción energética, como la hidrólisis del agua, son fenómenos fundamentales para el sostenimiento de la vida en el planeta.
+                
         .BG06.py-3.py-md-4(titulo="Fase de fijación de carbono")
           .row.justify-content-center.align-items-center
             .col-lg-5.mb-lg-0.mb-4
-              img(src="@/assets/curso/tema1/img28.svg")
+              img(src="@/assets/curso/tema1/img28_a.svg")
             .col-lg-5
               p Tanto ATP como NADPH son fuentes de energía y poder reductor, respectivamente, para promover la síntesis de carbohidratos de carbono del dióxido de carbono, en azúcar simple; en este sentido, las reacciones iniciadas en el cloroplasto, encuentran continuidad en el citosol celular, generando en el mesófilo de las hojas, sacarosa y otras moléculas orgánicas; la sacarosa es exportada hacia otros tejidos como fuente de moléculas orgánicas. 
-              p Lo anterior sucede gracias a que la energía química almacenada temporalmente en las moléculas de ATP y NADPH es transferida a las moléculas transportadoras y almacenadoras de energía en las células de los organismos fotoautótrofos, formando un esqueleto hidrocarbonado desde donde se empiezan a construir diversas variedades de moléculas orgánicas.
-              .BG05.p-4
-                p.mb-0 #[b Nota]: la incorporación del CO2 en compuestos orgánicos es conocida comúnmente como fijación de carbono, sucediendo en el estroma de los cloroplastos.
-                
-    separador
-    #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.4 Sistemas de tejidos vasculares
 
-    p Además del proceso de fotosíntesis se puede reconocer como el tejido vascular de las plantas, es característico de plantas superiores y atraviesan la totalidad del organismo, desde el extremo radicular, hasta el extremo de las hojas. Se encuentra constituido por Xilema y Floema; al respecto de cada uno, es necesario realizar un conjunto de precisiones para comprender su funcionamiento y relevancia en el desarrollo y sostenimiento de la planta.
-    
+              p Lo anterior, sucede gracias a que la energía química almacenada, temporalmente, en las moléculas de ATP y NADPH, es transferida a las moléculas transportadoras y almacenadoras de energía, en las células de los organismos fotoautótrofos, formando un esqueleto hidrocarbonado desde donde se empiezan a construir diversas variedades de moléculas orgánicas.
+              .BG05.p-4
+                p.mb-0 #[b Nota]: la incorporación del CO2 en compuestos orgánicos, es conocida, comúnmente, como fijación de carbono, sucediendo en el estroma de los cloroplastos.
+
+    separador
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.3 Sistemas de tejidos vasculares
+
+    p El tejido vascular de las plantas, es característico de plantas superiores y atraviesan la totalidad del organismo, desde el extremo radicular, hasta el extremo de las hojas. Está conformado por el xilema y el floema y, con respecto a ellos, es necesario realizar un conjunto de precisiones para comprender su funcionamiento y relevancia en el desarrollo y sostenimiento de la planta.
+
+    p En la siguiente imagen se puede observar con más detalle el tejido vascular:
+
     .row.justify-content-center.mb-4(data-aos="zoom-in")
       .col-lg-10
-        img(src="@/assets/curso/tema1/img29.svg")
+        img(src="@/assets/curso/tema1/img29_a.svg")
 
     .BGIMG05.p-md-5.p-4.mb-4(data-aos="zoom-in")
       AcordionA(tipo="b" clase-tarjeta="BGR03")
@@ -297,19 +321,22 @@
             p.mb-0 Células muertas alargadas, con terminación en punta roma y presencia de poros laterales; sus funciones básicas son el transporte de savia bruta y sostenimiento de la planta.
         .row.justify-content-center(titulo="Elementos del vaso")
           .col
-            p.mb-0 Células alargadas con paredes gruesas que regularmente no contienen protoplasma vivo en su estado de madurez; estos órganos forman filas unidas longitudinalmente conectadas entre sí mediante perforaciones; las funciones de éstos son el transporte de agua y minerales, así como el sostenimiento de la planta.
+            p.mb-0 Células alargadas con paredes gruesas que regularmente no contienen protoplasma vivo en su estado de madurez; estos órganos forman filas, unidas longitudinalmente, conectadas entre sí mediante perforaciones; las funciones de estos son el transporte de agua y minerales, así como también, el sostenimiento de la planta.
+
         .row.justify-content-center(titulo="Fibras")
           .col
             p.mb-0 Son paredes fuertemente lignificadas, conformando estructuras más largas que las traqueidas, que terminan en puntas agudas; su función es de tipo mecánico en la planta. Estas fibras forman paredes secundarias después de completar su alargamiento.
         .row.justify-content-center(titulo="Parénquima")
           .col
-            p.mb-0 Es similar al parénquima que se encuentra en el resto de la planta; su función es el almacenamiento de sustancias requeridas por la planta.
+            p.mb-0 Su función es el almacenamiento de sustancias requeridas por la planta.
+
         .row.justify-content-center(titulo="Floema")
           .col
             p.mb-0 Es el tejido de mayor relevancia para la conducción de nutrientes a lo largo de la planta, es de naturaleza compleja, conformado por células especializadas en funciones concretas; estas células son: elementos cribosos, células acompañantes, parénquima y fibras.
         .row.justify-content-center(titulo="Elementos cribosos")
           .col
-            p.mb-0 Existen dos tipos, las células cribosas (menos especializadas) y los tubos cribosos (mayormente especializados); son células vivas; los tubos se encuentran dispuestos longitudinalmente; en sus paredes, se forman llamadas áreas cribosas; la función de estas estructuras es el transporte de savia elaborada hasta los sitios de almacenamiento y consumo.
+            p.mb-0 Existen dos tipos: las células cribosas (menos especializadas) y los tubos cribosos (mayormente especializados); son células vivas, los tubos se encuentran dispuestos longitudinalmente y, en sus paredes, se forman las llamadas áreas cribosas; la función de estas estructuras es el transporte de savia elaborada, hasta los sitios de almacenamiento y consumo.
+            
         .row.justify-content-center(titulo="Células acompañantes")
           .col
             p.mb-0 Células parenquimáticas altamente especializadas que suelen asociarse a los tubos cribosos; guardan una función complementaria con los elementos cribosos.

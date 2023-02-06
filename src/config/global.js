@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Propagación vegetal <em>in-vitro</em>',
     descripcionCurso:
-      'El desarrollo de este componente le permitirá acceder a conocimientos importantes en el campo de la biotecnología vegetal y la propagación <em>in-vitro</em>. Entre los temas más destacados por abordar se encuentran la instalación de bancos de plantas madre, selección de medios de laboratorio, preparación de soluciones madre y adopción de protocolos de manejo.',
+      'El desarrollo de este componente le permitirá acceder a conocimientos importantes en el campo de la biotecnología vegetal y la propagación <em>in vitro</em>. Entre los temas más destacados por abordar se encuentran la instalación de bancos de plantas madre, selección de medios de laboratorio, preparación de soluciones madre y adopción de protocolos de manejo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -63,14 +63,8 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: 'Fase luminosa y oscura de la fotosíntesis',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
             titulo: 'Sistemas de tejidos vasculares',
-            hash: 't_1_4',
+            hash: 't_1_3',
           },
         ],
       },
@@ -81,21 +75,6 @@ export default {
         numero: '2',
         titulo: 'Reproducción vegetativa de las plantas',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Estructuras reproductivas vegetativas',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo:
-              'Uso y ventajas de la reproducción vegetativa de las plantas',
-            hash: 't_2_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -204,42 +183,42 @@ export default {
   },
   complementario: [
     {
-      tema: 'Fotosíntesis',
+      tema: 'Órganos fotosintéticos',
       referencia:
-        'Monza, J. & Signorelli, S (2017). Manual de nivelación de bioquímica. ISNB-978-9974-0-1526-5. Disponible en:',
+        'Monza, J. & Signorelli, S. (2017). <em>Manual de nivelación de bioquímica.</em>',
       tipo: 'Capítulo de libro',
       link:
         'https://docplayer.es/9280819-Fotosintesis-material-elaborado-por-j-monza-s-signorelli-o-borsani-y-m-sainz.html',
     },
     {
-      tema: 'Medios de cultivo',
+      tema: 'Reproducción vegetativa de las plantas',
       referencia:
-        'Preparación de medios de cultivo para el cultivo in vitro de plantas o de material vegetal. Universidad Politécnica de Valencia.',
-      tipo: 'Tutorial en video',
-      link: 'https://www.youtube.com/watch?v=pdSrwfWfPCw',
-    },
-    {
-      tema: 'Reproducción vegetativa',
-      referencia:
-        'Reyes, J (2015). Guía técnica, métodos y procedimientos de reproducción asexual o vegetativa de las plantas.',
+        'Reyes, J. (2015). <em>Guía técnica, métodos y procedimientos de reproducción asexual o vegetativa de las plantas.</em>',
       tipo: 'Libro',
       link:
         'https://www.competitividad.org.do/wp-content/uploads/2016/05/Gu%C3%ADa-de-t%C3%A9cnicas-m%C3%A9todos-y-procedimientos-de-reproducci%C3%B3n-asexual-o-vegetativa-de-las-plantas.pdf',
     },
     {
-      tema: 'Importancia del cultivo de tejidos en agricultura',
+      tema: 'Reproducción vegetativa de las plantas',
       referencia:
-        'Roca, W. & Mroginski, L (1993). Cultivo de tejidos en la agricultura. ISNB-958-9183-15-8.',
-      tipo: 'Libro',
-      link:
-        'http://ciat-library.ciat.cgiar.org/Articulos_Ciat/biblioteca/Cultivo_de_tejidos_en_la_agricultura.pdf',
+        'Universidad Politécnica de Valencia. (2012). <em>Preparación de medios de cultivo para el cultivo in vitro de plantas o de material vegetal</em>. (video). YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=pdSrwfWfPCw',
     },
     {
-      tema: 'Elaboración de medios de cultivo',
-      referencia: 'Ruiz, J (2017). Medios de cultivo.',
+      tema: 'Reproducción vegetativa de las plantas',
+      referencia: 'Ruiz, J. (2017). <em>Medios de cultivo</em>.',
       tipo: 'Manual',
       link:
         'https://issuu.com/jazinaruizhernandez/docs/unidad2.mediosdecultivo',
+    },
+    {
+      tema: 'Reproducción vegetativa de las plantas',
+      referencia:
+        'Roca, W. & Mroginski, L. (1993). <em>Cultivo de tejidos en la agricultura.</em>',
+      tipo: 'Libro',
+      link:
+        'http://ciat-library.ciat.cgiar.org/Articulos_Ciat/biblioteca/Cultivo_de_tejidos_en_la_agricultura.pdf',
     },
   ],
   glosario: [
@@ -385,42 +364,41 @@ export default {
   referencias: [
     {
       referencia:
-        'Chuncho, G. Chuncho, C. & Aguirre, Z (2019). Anatomía y morfología vegetal. ISNB-978-9978-355-57-2. Disponible en:',
+        'Chuncho, G. Chuncho, C. & Aguirre, Z. (2019). <em>Anatomía y morfología vegetal</em>.',
       link:
         'https://unl.edu.ec/sites/default/files/archivo/2019-12/ANATOMI%CC%81A%20Y%20MORFOLOGI%CC%81A%20VEGETAL.pdf',
     },
     {
       referencia:
-        'Osuna-Fernández, HR. Osuna-Fernández, AM. & Fierro-Álvarez, A. (2017). Manual de propagación de plantas superiores. ISNB-978-607-28-1054-9. Disponible en:',
+        'Osuna-Fernández, H. R. Osuna-Fernández, A. M. & Fierro-Álvarez, A. (2017). <em>Manual de propagación de plantas superiores</em>.',
       link:
         'https://www.casadelibrosabiertos.uam.mx/contenido/contenido/Libroelectronico/manual_plantas.pdf',
     },
     {
       referencia:
-        'Perea, M (2009). Cultivo de tejidos vegetales in vitro. ISNB-958-701-372-7. Disponible en:',
+        'Perea, M. (2009). <em>Cultivo de tejidos vegetales in vitro</em>.',
       link:
         'http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Publicaciones/Imagenes/Portadas_Libros/Biologia/Cultivo_de_Tejidos_Vegetales_In_Vitro/Cultivo_de_Tejidos_Vegetales_In_Vitro.pdf?fbclid=IwAR2xLhdtU-7yKztpAvuWQjdZYh-ltzpcYT6PnzpAErkw__ZozfqclxwYy-Y',
     },
     {
       referencia:
-        'Pérez-Urria, E (2009). Fotosíntesis: aspectos básicos. En: Reduca (Biología). Serie Fisiología Vegetal, 2 (3): 1-47. Disponible en:',
+        'Pérez-Urria, E. (2009). Fotosíntesis: aspectos básicos. Reduca (Biología). <em>Serie Fisiología Vegetal, 2</em>(3), p. 1-47.',
       link:
         'http://revistareduca.es/index.php/biologia/article/view/793#:~:text=P%C3%A9rez%2DUrria%20Carril-,Resumen,solar%20para%20sintetizar%20compuestos%20org%C3%A1nicos.',
     },
     {
       referencia:
-        'Ramos, A. Cano, J. López, G. & Varguéz, A (2021). Alcances y perspectivas del área de biotecnología vegetal del CIATEJ en el Sureste de México. ISNB-978-607-8734-24-5. Disponible en:',
+        'Ramos, A., Cano, J., López, G. & Varguéz, A. (2021). <em>Alcances y perspectivas del área de biotecnología vegetal del CIATEJ en el Sureste de México</em>.',
       link:
         'https://www.researchgate.net/publication/354659004_Alcances_y_perspectivas_del_area_de_Biotecnologia_Vegetal_del_CIATEJ_en_el_Sureste_de_Mexico',
     },
     {
       referencia:
-        'Sharry, S. Adema, M. & Abedini, W (2015). Manual para la propagación de plantas por cultivo de tejidos in vitro. ISNB-978-950-34-1254-1. Disponible en:',
+        'Sharry, S., Adema, M. & Abedini, W. (2015). <em>Manual para la propagación de plantas por cultivo de tejidos in vitro.</em>',
       link: 'https://libros.unlp.edu.ar/index.php/unlp/catalog/book/407',
     },
     {
-      referencia:
-        'Suárez, I (2020). Cultivo de tejidos vegetales. ISNB-978-958-5104-09-9. Disponible en:',
+      referencia: 'Suárez, I. (2020). <em>Cultivo de tejidos vegetales.</em>',
       link:
         'https://repositorio.unicordoba.edu.co/handle/ucordoba/2553#:~:text=El%20cultivo%20de%20tejidos%20vegetales,agr%C3%ADcola%20y%20la%20investigaci%C3%B3n%20vegetal.',
     },

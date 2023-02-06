@@ -10,8 +10,9 @@
             img(src="@/assets/template/falso-verdadero.svg")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Actividad didáctica. Verdadero y falso
+          h2  Propagación vegetal #[i in vitro]
         p.mb-4 Apreciado aprendiz, a continuación encontrará una serie de preguntas que deberá resolver, con el objetivo de evaluar la aprehensión de los conocimientos expuestos en este componente formativo.
+        
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
