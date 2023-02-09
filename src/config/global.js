@@ -82,28 +82,6 @@ export default {
         numero: '3',
         titulo: 'Clasificación de material vegetal',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Características del banco de plantas madre',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo:
-              'Determinación de la especie madre e importancia de la selección de la Planta Madre',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo:
-              'Descripción del estado sanitario y nutricional de la especie o planta madre',
-            hash: 't_3_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
@@ -112,33 +90,6 @@ export default {
         titulo:
           'Selección de explantes para utilización de técnica <em>in-vitro</em>',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Descripción de fenotipo',
-            hash: 't_4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo:
-              'Descripción y determinación de tejidos vegetales a utilizar',
-            hash: 't_4_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.3',
-            titulo: 'Separación de explantes como gemas o meristemos axilares',
-            hash: 't_4_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.4',
-            titulo: 'Limpieza de explantes',
-            hash: 't_4_4',
-          },
-        ],
       },
     ],
     subMenu: [
