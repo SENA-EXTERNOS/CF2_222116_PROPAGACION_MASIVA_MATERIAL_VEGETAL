@@ -13,7 +13,7 @@
       .col-lg-6
         p Para la comprensión de la técnica de propagación <em>in vitro</em> de las plantas, además de reconocer la morfología vegetal, se hace necesario identificar la reproducción vegetativa o asexual de las plantas; para esto, se recurre a la identificación de las estructuras reproductivas vegetativas, es decir, aquellas estructuras vegetales susceptibles de servir como material biológico para la propagación. Seguidamente, se realiza un breve recorrido por las ventajas en el uso de la técnica, así como algunos de los elementos a tener en consideración para evitar posibles riesgos o afectaciones a la biodiversidad.
 
-        p Para ampliar la información sobre la temática, lo invitamos a ver el siguiente video.
+        p Para ampliar la información sobre la temática, lo invitamos a ver el siguiente video:
 
 
     figure(data-aos="zoom-in")

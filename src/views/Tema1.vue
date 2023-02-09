@@ -257,7 +257,7 @@
 
       p Ya aprendimos en qué consiste la fotosíntesis, ahora vamos a conocer sobre las fases luminosas y oscuras de ella.
 
-      La fotosíntesis implica la transformación de energía lumínica en energía química.
+      p La fotosíntesis implica la transformación de energía lumínica en energía química
 
 
     .BGIMG01.p-md-5.p-4.mb-4
@@ -270,7 +270,7 @@
               img(src="@/assets/curso/tema1/img26_a.svg")
             .col-lg-5
               .h4 Transformación de energía lumínica en energía química
-              p.mb-0 Para que este proceso de lleve a cabo, los organismos deben captar la luz y luego los pigmentos fotosintéticos, deben disponerse en la membrana tilacoidal para desarrollar el proceso de síntesis. Este proceso contempla dos fases: la fase fotoquímica (fase luminosa) y la fase de fijación de carbono (fase oscura). 
+              p.mb-0 Para que este proceso se lleve a cabo, los organismos deben captar la luz y luego los pigmentos fotosintéticos, deben disponerse en la membrana tilacoidal para desarrollar el proceso de síntesis. Este proceso contempla dos fases: la fase fotoquímica (fase luminosa) y la fase de fijación de carbono (fase oscura). 
 
         .BG06.py-3.py-md-4(titulo="Fase fotoquímica")
           .row.justify-content-center.align-items-center

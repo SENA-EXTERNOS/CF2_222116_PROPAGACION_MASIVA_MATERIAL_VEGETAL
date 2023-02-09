@@ -67,16 +67,16 @@
         LineaTiempoC.color-acento-contenido(text-small)
           .row.justify-content-center(titulo="Paso 1")
             .col-lg-5.order-lg-1.order-2
-              .h4 Determinación de tipo de especie
+              .h4 Selección del tipo de especie 
               p.mb-0 Inicialmente, debe determinarse el tipo de especie que se espera reproducir; la selección de la especie es crucial y debe responder a las condiciones que motivan el ejercicio de propagación que se empieza a emprender, sea con fines investigativos o comerciales; se recomienda establecer claridad en el panorama, no solo de las especies, sino también de las variedades vegetales a utilizar, a partir de la confrontación entre el objetivo de los ensayos de laboratorio y las características específicas de cada material vegetal con potencial de uso. 
 
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema3/img07.png")
           .row.justify-content-center(titulo="Paso 2")
             .col-lg-5.order-lg-1.order-2
-              .h4 Determinación de plantas donantes del material biológico
+              .h4 Selección de plantas donantes de material biológico 
               p.mb-0 La selección de las plantas donantes de material biológico, se enfoca, desde un inicio, en la necesidad de identificar ejemplares con un comportamiento demostrado de rendimiento, apropiado para las expectativas productivas; es decir, se procederá a identificar en un cultivo establecido, aquellos individuos que presentan comportamientos destacados en cuanto a sanidad, rendimientos productivos, variabilidad climática, entre otros.
-
+              
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema3/img08.png")
           .row.justify-content-center(titulo="Paso 3")
