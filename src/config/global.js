@@ -328,8 +328,7 @@ export default {
     {
       referencia:
         'Perea, M. (2009). <em>Cultivo de tejidos vegetales in vitro</em>.',
-      link:
-        'http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Publicaciones/Imagenes/Portadas_Libros/Biologia/Cultivo_de_Tejidos_Vegetales_In_Vitro/Cultivo_de_Tejidos_Vegetales_In_Vitro.pdf?fbclid=IwAR2xLhdtU-7yKztpAvuWQjdZYh-ltzpcYT6PnzpAErkw__ZozfqclxwYy-Y',
+      link: 'https://repositorio.unal.edu.co/handle/unal/79882',
     },
     {
       referencia:
