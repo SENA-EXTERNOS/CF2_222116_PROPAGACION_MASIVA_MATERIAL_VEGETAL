@@ -111,7 +111,7 @@
         
         .row.justify-content-center.align-items-center
           .col-lg-4.order-lg-1.order-2
-            p.mb-0 Regularmente, los medios de cultivo utilizados, son suficientes para mantener saludables a las plantas madre; sin embargo, es posible adicionar coayudantes como micorrizas y estimuladores de enraizamiento al sustrato, para mejorar el perfil de complementariedad del sustrato, mediante la flora microbiana.
+            p.mb-0 Regularmente, los medios de cultivo utilizados, son suficientes para mantener saludables a las plantas madre; sin embargo, es posible adicionar coadyuvantes como micorrizas y estimuladores de enraizamiento al sustrato, para mejorar el perfil de complementariedad del sustrato, mediante la flora microbiana.
 
             img(src="@/assets/curso/tema3/img12.png")
         

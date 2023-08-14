@@ -94,7 +94,7 @@
             .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema1/img07.png")
 
-    p Siguiendo con el conocimiento de la planta, se puede decir que el tallo es el órgano vegetativo con geotropismo negativo y fototropismo positivo, los cuáles sirven para sostener las ramas, hojas, flores y frutos, con tamaños, formas y consistencias relativas al tipo de planta, a la cual pertenece. El tallo cuenta con una estructura interna y una externa.
+    p Siguiendo con el conocimiento de la planta, se puede decir que el tallo es el órgano vegetativo con geotropismo negativo y fototropismo positivo, los cuales, sirven para sostener las ramas, hojas, flores y frutos, con tamaños, formas y consistencias relativas al tipo de planta, a la cual pertenece. El tallo cuenta con una estructura interna y una externa.
 
     .row.justify-content-center.mb-5
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
@@ -116,12 +116,6 @@
 
     .BGIMG03.p-4.mb-4(data-aos="zoom-in")
       LineaTiempoC.color-primario.color-purple(text-small)
-        .row.justify-content-center(titulo="La hoja")
-          .col-lg-6.mb-lg-0.mb-4
-            img(src="@/assets/curso/tema1/img09.jpg")
-          .col-lg-5
-            .h4 La hoja
-            p En este recorrido de la planta se puede indicar que la hoja es un órgano que presenta estructura interna y externa.
         .row.justify-content-center.align-items-center(titulo="Estructura externa de la hoja")
           .col-lg-6.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img10.svg")
@@ -256,10 +250,6 @@
       h3 Fase luminosa y fase oscura de la fotosíntesis
 
       p Ya aprendimos en qué consiste la fotosíntesis, ahora vamos a conocer sobre las fases luminosas y oscuras de ella.
-
-      p La fotosíntesis implica la transformación de energía lumínica en energía química
-
-
     .BGIMG01.p-md-5.p-4.mb-4
       .cajon.color-secundario.p-4(data-aos="flip-up")
         p.mb-0 La fotosíntesis implica la transformación de energía lumínica en energía química

@@ -68,13 +68,13 @@
         
         .row.justify-content-center.align-items-center
           .col-lg-5.order-lg-1.order-2
-            p.mb-0 En este escenario, los meristemos representan un papel importante dentro del proceso de reproducción <em>in vitro</em>; estos son grupos de células en estado juvenil que cuentan con una capacidad notable de división constante, siendo su principal funcionalidad, la reproducción de plantas, libres de agentes patógenos; dicha funcionalidad sucede a causa de la ausencia de canales conductores de organismos, como como un virus; un ejemplo de esto es, permitir una disminución del riesgo, a la contaminación del material vegetal resultante
+            p.mb-0 En este escenario, los meristemos representan un papel importante dentro del proceso de reproducción <em>in vitro</em>; estos son grupos de células en estado juvenil que cuentan con una capacidad notable de división constante, siendo su principal funcionalidad, la reproducción de plantas, libres de agentes patógenos; dicha funcionalidad sucede a causa de la ausencia de canales conductores de organismos, como un virus; un ejemplo de esto es, permitir una disminución del riesgo, a la contaminación del material vegetal resultante.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema4/img07.png")
         
         .row.justify-content-center.align-items-center
           .col-lg-5.order-lg-1.order-2
-            p.mb-0 El explante más utilizado, son las yemas apicales del vástago, estacas uninodales portadoras de yemas axilares, discos de hoja, secciones de raíz y meristemos (Sharry. et al. 2015). El proceso de remoción y manipulación de cada tejido debe conservar protocolos de asepsia específicos, así como establecer la metodología más apropiada en concordancia con la morfología vegetal y las características concretas de las respectivas especies vegetales a propagar. 
+            p.mb-0 El explante más usado, son las yemas apicales del vástago, estacas uninodales portadoras de yemas axilares, discos de hoja, secciones de raíz y meristemos (Sharry. et al. 2015). El proceso de remoción y manipulación de cada tejido debe conservar protocolos de asepsia específicos, así como establecer la metodología más apropiada en concordancia con la morfología vegetal y las características concretas de las respectivas especies vegetales a propagar. 
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema4/img08.png")
 
