@@ -247,7 +247,7 @@
             img(src="@/assets/curso/tema1/img25.png")
 
     .row.mt-5
-      h3 Fase luminosa y fase oscura de la fotosíntesis
+      h3 Fase luminosa y fase oscura de la fotosíntesis.
 
       p Ya aprendimos en qué consiste la fotosíntesis, ahora vamos a conocer sobre las fases luminosas y oscuras de ella.
     .BGIMG01.p-md-5.p-4.mb-4

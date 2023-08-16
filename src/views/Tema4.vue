@@ -82,10 +82,6 @@
       h3 Limpieza de explantes
 
       p El desarrollo de un proceso exitoso de micropropagación vegetal depende, en una proporción dominante, de la conservación de la asepsia del material vegetal; además de las precauciones que se deben llevar a cabo en la selección y recolección de la muestra biológica, se tiene que garantizar una desinfección apropiada de los explantes cultivados, de manera que se eliminen las posibilidades de contaminación microbiana y su correspondiente afectación al ensayo.
-
-      p Al profundizar en este campo, se exponen aspectos que, en apariencia, no ejercerían incidencia sobre las condiciones de sanidad de las plantas, pero que pueden llegar a afectar gravemente el recurso biológico manipulado; entre estos aspectos se reconoce la arquitectura de los espacios de trabajo, edad y procedencia del material vegetal, condiciones culturales de los operarios, traducida en prácticas de higiene y hasta la habilidad o destreza en el ejercicio, pudiendo llegar a generar presuntas afectaciones. (Sharry, 2015)
-
-
     .BGM19.px-md-5.px-4.pt-3.pb-2.mb-4
       p El profundizar en este campo, expone aspectos que en apariencia no ejercerían incidencia sobre las condiciones de sanidad de las plantas; pero que, ciertamente, pueden llegar a afectar gravemente el recurso biológico manipulado; entre estos aspectos se reconoce la arquitectura de los espacios de trabajo, edad y procedencia del material vegetal, condiciones culturales de los operarios traducida en prácticas de higiene y hasta la habilidad o destreza en el ejercicio, pudiendo llegar a generar presuntas afectaciones #[b (Sharry. 2015)].
       
@@ -126,7 +122,7 @@ export default {
     datosSlyder: [
       {
         texto:
-          'El seguimiento se realiza desde el levantamiento de registro de variables cualitativas y variables cuantitativas, a partir de la identificación de condiciones observables de la planta; entre las primeras, se destacan el color, tipo de estructura (árbol, arbusto, etc.), forma de copa, entre otras; para el caso de las segundas, resaltan la arquitectura del ejemplar (área foliar, ángulo foliar, ángulo de ramas, interceptación solar) y el crecimiento del ejemplar (cantidad de cruces, altura, diámetro, cantidad de nudos); para los estadíos de madurez, una interpretación de este tipo de condiciones, también incluye las características de los frutos (longitud, ancho, espesor y peso) y los pedúnculos (longitud).',
+          'El seguimiento se realiza desde el levantamiento de registro de variables cualitativas y variables cuantitativas, a partir de la identificación de condiciones observables de la planta; entre las primeras, se destacan el color, tipo de estructura (árbol, arbusto, etc.), forma de copa, entre otras; para el caso de las segundas, resaltan la arquitectura del ejemplar (área foliar, ángulo foliar, ángulo de ramas, interceptación solar) y el crecimiento del ejemplar (cantidad de cruces, altura, diámetro, cantidad de nudos); para los estadios de madurez, una interpretación de este tipo de condiciones, también incluye las características de los frutos (longitud, ancho, espesor y peso) y los pedúnculos (longitud).',
         imagen: require('@/assets/curso/tema4/img02.png'),
       },
       {

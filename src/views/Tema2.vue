@@ -23,9 +23,7 @@
     .row.mt-5
       h3 Estructuras reproductivas vegetativas
 
-      p Algunas especies presentan mayor facilidad en términos de tiempo e inversión, al ser reproducidas por medios vegetativos más que por semilla; otro elemento a considerar es la necesidad de mantener “indefinidamente” un estado juvenil en los ejemplares vegetales como condición que facilita el enraizamiento de estacas por propagación, tal es el caso de los tubérculos que regularmente hacen parte de la dieta humana. (Chuncho et al, 2019).
 
-      p Ahora, lo invitamos a reconocer las estructuras reproductivas vegetativas.
 
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-right")
@@ -35,6 +33,8 @@
             h3.text-regular Algunas especies presentan mayor facilidad en términos de tiempo e inversión al ser reproducidas por medios vegetativos que por semilla; otro elemento a considerar es la necesidad de mantener "indefinidamente" un estado juvenil en los ejemplares vegetales como condición que facilita el enraizamiento de estacas por propagación, tal es el caso de los tubérculos que regularmente hacen parte de la dieta humana (Chuncho et al 2019).
           .bloque-texto-d__autor 
             .h5.mb-0 Chuncho et al 2019 <i class="fas fa-quote-right" style="color:#169788"></i>
+    p Ahora, lo invitamos a reconocer las estructuras reproductivas vegetativas.
+    
     
     .row.justify-content-center.mb-5
       .col-lg-4.col-md-8(data-aos="zoom-in")
@@ -84,7 +84,7 @@ export default {
       {
         titulo: '',
         texto:
-          'Las ventajas biológicas radican en la rapidez de división y simplicidad, derivadas de no tener que producir células sexuales o gastar energía en operaciones previas, asociadas con la fecundación; en este sentido, desde un solo ejemplar, puede obtenerse una gran cantidad de descendientes, a través de mecanismos como la formación de esporas, fisión transversal o germinación, incrementando la posibilidad de contar con material vegetal eficiente, para aprovechar las ventajas comparativas de diferentes espacios territoriales compatibles con las condiciones agroecológicas de las especies abordadas. (Ramos et al, 2021)',
+          'Es importante describir que, siendo el resultado del proceso de clonación, un individuo que no presenta variabilidad genética y, al compartir todos los ejemplares resultantes esta misma condición, un <b>riesgo en términos de biodiversidad que puede presentarse en la dependencia exclusiva del proceso de propagación vegetativa, radica en la incapacidad de adaptación a condiciones cambiantes, por parte de los nuevos ejemplares</b>; por esta razón, es necesario conservar bancos de plantas madre robustos, que garanticen la diversidad genética, como estrategia de respaldo.',
         imagen: require('@/assets/curso/tema2/img04.jpg'),
       },
     ],
