@@ -30,7 +30,7 @@
         .bloque-texto-d.color-acento-botones.p-4
           .bloque-texto-d__texto.mb-2
             <i class="fas fa-quote-left" style="color:#169788"></i>
-            h3.text-regular Algunas especies presentan mayor facilidad en términos de tiempo e inversión al ser reproducidas por medios vegetativos más que por semilla; otro elemento a considerar es la necesidad de mantener "indefinidamente" un estado juvenil en los ejemplares vegetales como condición que facilita el enraizamiento de estacas por propagación, tal es el caso de los tubérculos que regularmente hacen parte de la dieta humana (Chuncho et al 2019).
+            h3.text-regular Algunas especies presentan mayor facilidad en términos de tiempo e inversión al ser reproducidas por medios vegetativos más que por semilla; otro elemento a considerar es la necesidad de mantener "indefinidamente" un estado juvenil en los ejemplares vegetales como condición que facilita el enraizamiento de estacas por propagación, tal es el caso de los tubérculos que regularmente hacen parte de la dieta humana.
           .bloque-texto-d__autor 
             .h5.mb-0 Chuncho et al 2019 <i class="fas fa-quote-right" style="color:#169788"></i>
     p Ahora, lo invitamos a reconocer las estructuras reproductivas vegetativas.

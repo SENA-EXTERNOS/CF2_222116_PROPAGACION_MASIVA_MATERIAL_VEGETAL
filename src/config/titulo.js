@@ -1,1 +1,1 @@
-module.exports = 'Propagación vegetal in-vitro'
+module.exports = 'Propagación vegetal in vitro'
