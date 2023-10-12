@@ -45,7 +45,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Morfología Vegetal',
+        titulo: 'Morfología vegetal',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -57,7 +57,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Órganos Fotosintéticos',
+            titulo: 'Órganos fotosintéticos',
             hash: 't_1_2',
           },
           {
