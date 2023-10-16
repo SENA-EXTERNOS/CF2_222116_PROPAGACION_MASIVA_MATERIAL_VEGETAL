@@ -334,7 +334,7 @@ export default {
       referencia:
         'Pérez-Urria, E. (2009). Fotosíntesis: aspectos básicos. Reduca (Biología). <em>Serie Fisiología Vegetal, 2</em>(3), p. 1-47.',
       link:
-        'http://revistareduca.es/index.php/biologia/article/view/793#:~:text=P%C3%A9rez%2DUrria%20Carril-,Resumen,solar%20para%20sintetizar%20compuestos%20org%C3%A1nicos.',
+        'https://docta.ucm.es/rest/api/core/bitstreams/ef4a8d22-d1c4-4a6f-952e-f5add1ecdbe5/content',
     },
     {
       referencia:
